@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&theme=tokyonight&show_icons=true)
+![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=tokyonight&show_icons=true)
 
 
