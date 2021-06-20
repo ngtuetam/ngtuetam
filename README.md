@@ -1,6 +1,6 @@
-### Hi there, I'm Tue Tam 👋
+### Welcome to my Github, I'm Tue Tam 👋
 
-
+📫 Reach me: [Facebook](https://www.facebook.com/i.mtue.tam), [Twitter](https://twitter.com/imtuetam)
 <!--
 **ngtuetam/ngtuetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
