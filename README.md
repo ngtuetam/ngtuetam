@@ -1,5 +1,7 @@
 ### Hi there, I'm Tue Tam 👋
 
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimtuetam)
+
 <!--
 **ngtuetam/ngtuetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=tokyonight&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuetam&layout=compact)](https://github.com/ngtuetam/github-readme-stats)
+![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=react&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuetam&layout=compact&theme=react)](https://github.com/ngtuetam/github-readme-stats)
 
 
 
