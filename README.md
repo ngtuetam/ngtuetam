@@ -1,6 +1,8 @@
 ### Welcome to my Github, I'm Tue Tam 👋
 
-📫 Reach me: [Facebook](https://www.facebook.com/i.mtue.tam), [Twitter](https://twitter.com/imtuetam)
+[![Linkedin:ngtuetam](https://img.shields.io/badge/-ngtuetam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ngtuetam/)](https://www.linkedin.com/in/ngtuetam/) 
+[![Twitter: imtuetam](https://img.shields.io/twitter/follow/imtuetam?style=social)](https://twitter.com/imtuetam)
+
 <!--
 **ngtuetam/ngtuetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=react&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuetam&layout=compact&theme=react)](https://github.com/ngtuetam/github-readme-stats)
+![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=react&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuetam&layout=compact&theme=react)](https://github.com/ngtuetam/github-readme-stats)
 
 
 
