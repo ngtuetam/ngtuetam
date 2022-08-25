@@ -1,5 +1,6 @@
 ## Welcome to my Github, I'm Tue Tam 👋
 
+<!--
 ### Connect with me:
 
 
@@ -8,7 +9,7 @@
 <a href="https://linkedin.com/in/ngtuetam" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-128.png" alt="ngtuetam" height="40" width="40" /></a>
 <a href="https://github.com/ngtuetam" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-256.png" alt="ngtuetam" height="40" width="40" /></a>
 <a href="https://facebook.com/i.mtue.tam" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-256.png" height="40" width="40" /></a>
-
+-->
 
 <!--
 **ngtuetam/ngtuetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
